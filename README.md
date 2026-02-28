@@ -1,6 +1,6 @@
 # 💸 Meu App de Organização de Finanças Pessoais com Vibe Coding
 
-Este projeto foi desenvolvido como um Desafio de Projeto de Vibe Coding da DIO utilizando O Lovable e o Copilot Web. A proposta é criar um aplicativo de organização financeira pessoal baseado em iterações em linguagem natural.
+Desenvolvido como um Desafio de Projeto de Vibe Coding da DIO utilizando O Lovable e o Copilot Web, a proposta deste projeto é criar um aplicativo de organização financeira pessoal baseado em iterações em linguagem natural com IA.
 
 ---
 
@@ -88,7 +88,7 @@ Interações com o Lovable:
   
 > Gostaria q houvesse categorias separadas para "viagem" e "lazer". Também gostaria de uma função que permitisse colocar manualmente uma fonte de receita e que ela possa ser registrada, se for o caso, com uma frequência com que é recebida (salario mensal, por exemplo) e nesse caso, ser possível também registrar o dia do recebimento, quando chegar o dia, o aplicativo registra automaticamente o recebimento. Gostaria que o mesmo fosse possível para despesas, poder registra-las como tendo uma frequência e tudo mais. Claro q isso também deve ser possível apenas passando as informações para o chat. Gostaria também de uma aba de receitas e uma de despesas para que seja possível ver separadamente o que há em cada uma, receitas e despesas frequentes e suas frequências (se forem frequentes). Gostaria também que no dashboard a aba "resumo" seja a primeira da lista, já que ela é a aba de início.
   
-  > Gostaria de mudar o nome da pagina, pois "FinChat" já está sendo usado. Gostaria de "Oura Finances" e que "Oura" fosse o nome do bot/IA do chat.
+> Gostaria de mudar o nome da pagina, pois "FinChat" já está sendo usado. Gostaria de "Oura Finances" e que "Oura" fosse o nome do bot/IA do chat.
 
 ---
 
